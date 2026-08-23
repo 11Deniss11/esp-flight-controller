@@ -4,7 +4,7 @@ A custom ESP32-based flight controller board designed in KiCad for my autonomous
 
 ## Components that slot into this PCB:
 
-- ESP32 S3 Wroom 1 N16R8V SX126
+- ESP32 S3 Wroom 1 N16R8V
 - SX1262 Lora Radio
 - BNO055 IMU
 - BMP280 Barometer
