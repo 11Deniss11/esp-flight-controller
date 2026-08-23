@@ -1,6 +1,6 @@
 # ESP32-based Flight Controller PCB
 
-A custom ESP32-based flight controller board designed in KiCad for my autonomous drone project, featured on the **Embedded in my Basement** YouTube channel.
+A custom ESP32-based flight controller board designed in KiCad for my autonomous drone project, featured on the **Embedded in my Basement** YouTube channel. This is the second PCB I've ever made, so its far from refined, but I hope its still useful for anyone who would like to build a project like this without micro-soldering.
 
 ## Components that slot into this PCB:
 
